@@ -1,2 +1,2 @@
-# White-Papper
-Startions white papper
+# Whitepaper
+Startions Whitepaper
